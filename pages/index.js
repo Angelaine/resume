@@ -7,6 +7,7 @@ export default function Home() {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
       </Head>
 
       <section className={utilStyles.headingMd}>
@@ -64,6 +65,15 @@ export default function Home() {
         <p>•Teamwork Skills </p>
       </section>
 
+      <section className= {utilStyles.rowColumn2}>
+        <h3>Software Skills</h3>
+        <p>•  Microsoft &nbsp⚫⚫⚫⚫⚪  Very Good</p>
+        <p>•  C++ &nbsp⚫⚫⚫⚪⚪ Good</p>
+        <p>•  Python &nbsp⚫⚫⚫⚪⚪ Good </p>
+        <p>• JavaScript &nbsp⚫⚫⚪⚪⚪ Average </p>
+        <p>• HTML &nbsp⚫⚫⚪⚪⚪ Average </p>
+   
+         </section>
       </section>
 
 
