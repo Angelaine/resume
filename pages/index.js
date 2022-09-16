@@ -67,11 +67,11 @@ export default function Home() {
 
       <section className= {utilStyles.rowColumn2}>
         <h3>Software Skills</h3>
-        <p>•  Microsoft &nbsp⚫⚫⚫⚫⚪  Very Good</p>
-        <p>•  C++ &nbsp⚫⚫⚫⚪⚪ Good</p>
-        <p>•  Python &nbsp⚫⚫⚫⚪⚪ Good </p>
-        <p>• JavaScript &nbsp⚫⚫⚪⚪⚪ Average </p>
-        <p>• HTML &nbsp⚫⚫⚪⚪⚪ Average </p>
+        <p>•  Microsoft  ⚫⚫⚫⚫⚪  Very Good</p>
+        <p>•  C++  ⚫⚫⚫⚪⚪ Good</p>
+        <p>•  Python  ⚫⚫⚫⚪⚪ Good </p>
+        <p>• JavaScript  ⚫⚫⚪⚪⚪ Average </p>
+        <p>• HTML  ⚫⚫⚪⚪⚪ Average </p>
    
          </section>
       </section>
