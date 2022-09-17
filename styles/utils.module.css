@@ -36,7 +36,7 @@
 
 .mar{
   text-align: left;
-  margin-left: 1%;
+  margin: 1rem 1%;
 }
 
 .borderCircle {
@@ -69,7 +69,7 @@
 display: -webkit-flex;
 display: flex;
 width:100%;
-
+margin: 1rem 1%;
 }
 
 .rowColumn1 {
