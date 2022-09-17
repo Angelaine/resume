@@ -68,8 +68,8 @@ margin: 1rem 1%;
 
 .rowColumn1 {
 width:100%;
--ms-flex: 4;
-flex: 4;
+-ms-flex: 1;
+flex: 1;
 text-align: left;
 margin-left: 1%;
 
@@ -77,8 +77,8 @@ margin-left: 1%;
 
 .rowColumn2 {
 width:100%;
--ms-flex: 6;
-flex: 6;
+-ms-flex: 1;
+flex: 1;
 text-align: left;
 margin-left: 1%;
 
