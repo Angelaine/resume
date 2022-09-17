@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Angelaine T. Delos Santos';
-const course = 'Computer Engineer';
+
 export const siteTitle = 'Resume';
 
 export default function Layout({ children, home }) {
@@ -38,7 +38,7 @@ export default function Layout({ children, home }) {
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
-            <h2 className={utilStyles.headH2}>{course}</h2>
+            
           </>
         ) : (
           <>
